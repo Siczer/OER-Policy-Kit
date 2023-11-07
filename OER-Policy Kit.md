@@ -163,6 +163,7 @@ Weitere Unterstützer:innen für eine OER-Policy sind vermehrt in Einrichtungen,
 <details>
 Justiziariat
 Das Justiziariat ist als zentrale Rechtsabteilung der HS in jedem Fall im OER-Policy-Prozess unumgänglich und sollte so früh wie möglich einbezogen werden, um zu gegebener Zeit Eckpfeiler für die Inhalte der Policy abzuklären und den späteren Textentwurf rechtlich “wasserdicht” zu machen.
+</details>
 
 <details>
 Lehrende
