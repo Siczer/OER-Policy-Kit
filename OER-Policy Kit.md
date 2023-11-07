@@ -7,7 +7,8 @@ comment: Das OER-Policy Kit steht unter der CC BY SA 4.0 Lizenz
 -->
 # OER-Policy Kit
 Herzlich willkommen!
-Hier steht das Bild mit der Map
+
+![OER Map](6-Schritte OER Policy.jpg)
 
 ## Einleitung
 
