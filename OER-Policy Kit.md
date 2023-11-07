@@ -152,27 +152,32 @@ Bibliothekar:innen spielen aufgrund ihres ausgeprägten Problembewusstseins hins
 
 <details>
 E-Learning- und IT-Abteilungen
+
 Ein gemeinsames Thema mit den "E-Learning"-Abteilungen (und vielleicht auch mit den Bibliotheken) der Hochschulen hängt eng zusammen mit der DOI Vergabe für OER (siehe Biblitoheken bzw. Bibliothekar:innen). So gibt es z.B. Hochschulen, die einerseits ihr Learning Management System (LMS) (Beispiele) oder ihr Medienportal (Beispiele) so geöffnet haben, dass neben den Mitgliedern der Hochschule auch Personen von außerhalb darauf zugreifen können. Hierbei gibt es die Möglichkeit, über geeignete Schnittstellen Kurse im offenen LMS im OERSI zu indexieren (Verweis auf das "Open RUB" der RUB). Für die Hochschule und insbesondere das Justiziariat kann es sinnvoll sein, eine Art OER-Check als obligatorischen Zwischenschritt zwischen Kurserstellung und Kursveröffentlichung zu schalten. Die Vergabe eines OER-Zertifikats und die damit verbundene Freischaltung der Zertifikatsinhaber:innen für die Veröffentlichung im offenen LMS stellt eine ebenfalls eine Möglichkeit dar zu gewährleisten, dass hierbei rechtliche Grundlagen eingehalten werden. Hierbei ist ein sinnvoller erster Schritt sicherlich die Einrichtung eines 'runden Tisches' mit zentralen IT-Abteilungen, E-Learning-Abteilungen und den Abteilungen für Medien- und Hochschuldidaktik” (Deimann et al., 2015, S.48).
 </details>
 
 <details>
 E-Learning und Hochschuldidaktik
+  
 Weitere Unterstützer:innen für eine OER-Policy sind vermehrt in Einrichtungen, in denen hochschul- und mediendidaktische Fragen eine zentrale Rolle spielen, also z.B. Servicestellen für Lehre und Studium, E-Learning-Abteilungen, hochschuldidaktische Zentren usw., anzutreffen. Diese haben das Thema OER häufig schon in ihr Informations-, Beratungs- und Veranstaltungsangebot integriert. An einigen HS spielen OER in Verbindung mit dem genutzten LMS eine Rolle, wenn dieses etwa direkt an eine OER-Plattform angebunden ist (z.B. Verknüpfung zwischen OER Campus in Stud.IP und twillo) oder wenn sich Kurse im offenen LMS im OERSI indexieren lassen (z.B. “Open RUB” der RUB). Mancherorts werden von hochschul- und mediendidaktischen Abteilungen bereits OER-Zertifikate vergeben, die ihren Inhaber:innen beispielsweise besondere Veröffentlichungsoptionen für OER ermöglichen.
 </details>
 
 <details>
 Justiziariat
+
 Das Justiziariat ist als zentrale Rechtsabteilung der HS in jedem Fall im OER-Policy-Prozess unumgänglich und sollte so früh wie möglich einbezogen werden, um zu gegebener Zeit Eckpfeiler für die Inhalte der Policy abzuklären und den späteren Textentwurf rechtlich “wasserdicht” zu machen.
 </details>
 
 <details>
 Lehrende
+  
 Die Gruppe der Lehrenden ist sicherlich die bedeutendste Gruppe der OER-Stakeholder:innen, denn sie sind es, die die mit dem Thema OER eng verbundene Kultur des Teilens an der Hochschule leben. Zur Identifikation von Lehrenden, die sich bereits zu der Thematik austauschen können, lohnt es sich, Kontakt zu Projekten aufzunehmen, die OER erstellen oder erstellt haben. Hierbei kann es sein, dass es Projekte aus expliziten OER-Förderlinien gibt (wie z.B. die Förderlinie OERcontent.nrw) oder aber Projekte, bei denen die Veröffentlichung als OER Förderbedingung ist oder mitgedacht wird (z.B. “Qualität plus” in Niedersachsen).
 Es gibt allerdings auch viele Lehrende, die bereits intrinsisch motiviert OER erstellen. Ein Charakteristikum der OER-Community an Hochschulen ist, dass diese Akteur:innen oft über die Hochschule verteilt und unabhängig voneinander agieren. Diese Lehrenden quasi "auf eigene Faust zu finden" kann eine große Herausforderung darstellen. Helfen können dabei oftmals die hochschuldidaktischen und E-Learning-Einrichtungen, denen diese Lehrenden aus Beratungen und Veranstaltungen bekannt sind. Eine interessante Personengruppe stellen hierbei auch die Dekane (bzw. Fachbereichsleitungen) dar. Sie haben u.U. einen umfassenderen Blick auf die Lehrenden der jeweiligen Fakultät bzw. des jeweiligen Fachbereichs, sie stehen bereits im Austausch mit der Hochschulleitung und denken strategische Prozesse an der Hochschule mit.
 </details>
 
 <details>
 Studierende
+  
 Das Thema OER mit Studierenden stellt einen großen Themenkomplex dar, der an dieser Stelle nicht umfassend behandelt werden kann. Einerseits gibt es hier andere Ziele, die mit OER verfolgt werden können. Zudem stellt dieser Themenkomplex besondere juristische Anforderungen, da das Urheberrecht von Studierenden besonders stark geschützt ist und es daher besonderer Vorbereitungen bedarf, wenn Studierende dazu angeregt werden sollen, auf die damit verbundenen Rechte zu verzichten. Die Veröffentlichung von Lehr-Lernmaterialien, die von und mit Studierenden erstellt wurden, bietet jedoch besonderes didaktisches Potenzial, welches im Bereich des Peer Learning bzw. Peer Teaching zu verorten ist. Für bestimmte Lehrende bietet OER die Chance eines Wandels in der Lehr-Lernkultur. Diese Lehrenden zu identifizieren kann dabei helfen, Kontakt zu OER-affinen Studierenden herzustellen.
 Andere Interessengruppen
 </details>
