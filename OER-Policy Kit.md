@@ -32,9 +32,13 @@ Die ersten Schritte in der Entwicklung einer OER-Policy sind entscheidend und we
 
 Eine gute Vorbereitung ist hier der Schlüssel: Indem Sie sich der verschiedenen Aspekte und möglichen Herausforderungen bewusst werden, können Sie effektiver planen und agieren. Dieser proaktive Ansatz hilft Ihnen, den Prozess der Policy-Entwicklung nicht nur zu navigieren, sondern auch zu gestalten, um eine OER-Policy zu entwickeln, die sowohl fundiert als auch zukunftsorientiert ist. Unabhängig davon, ob Sie nun einen offiziellen Auftrag haben oder selbst die Initiative ergreifen, das Engagement für OER-Policies ist immer auch ein Plädoyer für die Philosophie von OER selbst.
 
+![Überblick](Policy-Kit-Schritt1-roterFaden.gif)
+
 ### OER-Initiativen: Top-Down oder bottom up
 
 In der Entwicklung einer OER-Policy an Hochschulen unterscheiden wir grundsätzlich zwischen Top-Down- und Bottom-Up-Prozessen (vgl. Abbildung, angelehnt an [Orr et al, 2017 German OER Practices and Policy — from Bottom-up to Top-down Initiatives](https://iite.unesco.org/wp-content/uploads/2017/09/OER_Germany_www.pdf))
+
+![TopDown BottomUp](Policy-Kit_Top-Down.gif)
 
 **Top-Down-Prozesse** werden durch einen offiziellen Auftrag der Hochschulleitung initiiert und sind eng mit der strategischen Ausrichtung der Hochschule verbunden. Sie profitieren von der Unterstützung 'von oben' und erfordern gute Kommunikation in die Breite der Stakeholder und Zielgruppen (betrifft alle Statusgruppen der Hochschule), um diese im Geiste einer gelebten Kultur der Offenheit an ihren Bedarfen abzuholen und mit den strategischen Ziele in Einklang zu bringen. Es ist damit zu rechnen, dass der Auftrag der gegeben wird eher offener gefasst ist, da die Entscheidungsträger:innen nicht unbedingt den Überblick haben, was in einer OER-Policy stehen sollte.
 
